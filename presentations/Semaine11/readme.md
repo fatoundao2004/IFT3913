@@ -16,8 +16,8 @@ Pour proposer votre propre sujet,  contactez les assistants (dift3913@iro.umontr
 - Nom: Bencheikh El Atmani Ayoub
 - Présentation:
 
-[] SUJET
-- Nom:
+[concept] Little Bobby tables (SQL injection et Humour)
+- Nom: Fatou Ndao
 - Présentation:
 
 [] SUJET
